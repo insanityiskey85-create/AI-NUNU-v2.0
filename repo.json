@@ -1,0 +1,37 @@
+[
+  {
+    "Author": "insanityiskey85-create",
+    "Name": "AI NUNU v2.0",
+    "InternalName": "ai-nunu-v2",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "An advanced AI companion plugin for FFXIV that integrates with Ollama to provide lore-friendly chat with memory, personality, and emotional responses. Features include persistent conversations, character memory system, immersive roleplay experience, and a full-featured chat interface with infinite conversation history.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/insanityiskey85-create/AI-NUNU-v2.0",
+    "DownloadUrl": "https://github.com/insanityiskey85-create/AI-NUNU-v2.0/releases/download/v2.0/AI.NUNU.v2.0.zip",
+    "Tags": [
+      "AI",
+      "Chatbot",
+      "LLM",
+      "Ollama",
+      "Companion",
+      "Lore",
+      "Roleplay",
+      "RP",
+      "Conversation",
+      "Memory",
+      "Persona",
+      "NPC",
+      "Assistant",
+      "Local AI",
+      "Offline"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "",
+    "Punchline": "AI Companion with Memory & Personality for FFXIV",
+    "Changelog": "Initial release of AI NUNU v2.0 with chat window, memory system, Ollama integration, and infinite conversation history"
+  }
+]
