@@ -1,0 +1,19 @@
+{
+  "Author": "Nunu"
+  "Name": "AI Companion Plugin",
+  "Punchline": "An AI companion that runs local LLM models through Ollama",
+  "Description": "Integrates with Ollama to provide an AI companion with memory, personality, and emotional responses in FFXIV. Chat with your personal AI assistant that remembers your conversations and stays in character with FFXIV lore.",
+  "InternalName": "ai-companion-plugin",
+  "AssemblyVersion": "2.0.0.1",
+  "RepoUrl": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "ImageUrls": [],
+  "AcceptsFeedback": true,
+  "Tags": [ "AI", "Chatbot", "LLM", "Ollama", "Companion", "Lore", "Roleplay", "RP", "Conversation", "Memory", "Persona", "NPC", "Assistant", "Local AI", "Offline" ]
+}
